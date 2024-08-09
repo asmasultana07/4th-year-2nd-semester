@@ -1,0 +1,7 @@
+S=aSe
+S=B
+B=bBCf
+B=C
+C=cCg
+C=d
+C=#
